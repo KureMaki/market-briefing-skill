@@ -1,0 +1,9 @@
+# Webhook and credentials — never commit
+feishu_webhook.txt
+*.env
+.env*
+secrets/
+credentials/
+
+# Generated daily reports — not part of the skill itself
+market-briefing-result/
