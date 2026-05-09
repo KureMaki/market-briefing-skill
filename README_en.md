@@ -1,5 +1,7 @@
 # 🌏 Global Market Pre-Market Briefing — Claude Cowork Skill
 
+*[中文版 →](README.md)*
+
 Automatically searches financial news every weekday morning and generates a structured briefing covering US equities, bonds, commodities, gold, oil, and FX — to support trading decisions in Asian markets.
 
 **Report language: Chinese | Schedule: Tue–Sat 09:40 JST | Platform: Claude Cowork**
@@ -86,7 +88,3 @@ This skill started from a simple goal: get a structured daily market briefing wi
 The news-first approach makes that possible — just Claude and search access, zero configuration. The trade-off in data completeness is acceptable for the use case of quickly understanding what happened in the previous session.
 
 A production version is planned: direct market data feeds (YFinance / AkShare), scheduled via GitHub Actions, with push delivery to messaging apps.
-
----
-
-*[中文版 →](README.md)*
